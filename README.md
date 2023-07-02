@@ -1,4 +1,4 @@
-Analyzing an EMAIL Archive from gmane and vizualizing the data
+Analyzing an EMAIL Archive from gmane and visualizing the data
 using the D3 JavaScript library
 
 This is a set of tools that allow you to pull down an archive
