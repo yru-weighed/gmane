@@ -1,4 +1,16 @@
-Analyzing an EMAIL Archive from gmane and visualizing the data
+
+Connect with an indirect provider
+By working with an indirect provider, you can offer a broader selection of Microsoft's cloud-based services and solutions to your customers. Indirect providers have the systems and infrastructure to offer a robust level of billing and support. Relying on them in this way lets you focus on your technology solutions and customer engagements.
+
+If you're not already working with a provider (also known as a distributor), you can search the list of official Microsoft providers to find one. When you find a provider you want to partner with, contact them directly to discuss their reseller programs, level of support, and terms. If you and the provider want to work together, you need to connect your accounts on the Partner Center.
+
+If an indirect provider wants to connect with you on the Partner Center, they kick off the following workflow:
+
+The indirect provider emails you an invitation to authorize them to be your indirect provider. The email includes a link to the Partner Center and associates your account to the provider's account.
+
+To accept the invitation, follow the link in the provider's email. You might need to sign in to the Partner Center again.
+
+To confirm the partnership with the provider, check the box and then select Authorize indirect provider. The provider is now listed on your Indirect providers page and yoAnalyzing an EMAIL Archive from gmane and visualizing the data
 using the D3 JavaScript library
 
 This is a set of tools that allow you to pull down an archive
